@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73b7b930-70e7-4d9b-8b37-ac8d03a23d35" name="Changes" comment="Added image functionality">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fallin/engine/GameEngineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fallin/engine/PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fallin/engine/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fallin/engine/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fallin/engine/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fallin/engine/GameEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fallin/engine/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fallin/engine/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestGameEngine.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ICT221_Fallin" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kaizuu08&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6d6650d8-2d97-4926-a39e-bb413c5f9079" />
+        <option name="url" value="https://github.com/UniSunshineCoast/ict221-fallin-2024-Kaizuu08.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2h5X1BPL55fIyArJqZcQ9IF2wbc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.GameEngineTest (1).executor": "Run",
+    "Gradle.GameEngineTest (2).executor": "Run",
+    "Gradle.GameEngineTest.executor": "Run",
+    "Gradle.GameEngineTest.testGameInitialization.executor": "Run",
+    "Gradle.GameEngineTest.testInitialSetup.executor": "Run",
+    "Gradle.GameEngineTest.testMovePlayerValidMove.executor": "Run",
+    "Gradle.GameEngineTest.testPlayerMovementBounds.executor": "Run",
+    "Gradle.GameEngineTest.testReachExit.executor": "Run",
+    "Gradle.MAIN [:GameEngine.main()].executor": "Run",
+    "Gradle.MAIN [:RunGame.main()].executor": "Run",
+    "Gradle.MAIN [dependencies].executor": "Run",
+    "Gradle.MAIN [test].executor": "Run",
+    "Gradle.MAIN.executor": "Run",
+    "Gradle.PlayerTest.executor": "Run",
+    "Gradle.TestPlayer.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/ducng/OneDrive - University of the Sunshine Coast (1)/2024/ICT221/Task2/MAIN/src/main/java/Fallin/engine",
+    "last_opened_file_path": "C:/Users/Duc/OneDrive - University of the Sunshine Coast/2024/ICT221/Task2/MAIN",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.47816092",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ducng\OneDrive - University of the Sunshine Coast (1)\2024\ICT221\Task2\MAIN\src\main\resources\images" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Fallin.engine" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PlayerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Fallin.engine.PlayerTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PlayerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b7b930-70e7-4d9b-8b37-ac8d03a23d35" name="Changes" comment="" />
+      <created>1716884694673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716884694673</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Finalise Game Items">
+      <option name="closed" value="true" />
+      <created>1716884969943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716884969943</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implemented player movement&#10;&#10;Player can move based on console input.">
+      <option name="closed" value="true" />
+      <created>1716889123240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716889123240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Game Item placement randomisation">
+      <option name="closed" value="true" />
+      <created>1716890727502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716890727503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added difficulty level">
+      <option name="closed" value="true" />
+      <created>1716891636544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716891636545</updated>
+    </task>
+    <task id="LOCAL-00005" summary="implemented scoring option and GUI functions">
+      <option name="closed" value="true" />
+      <created>1716893386391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716893386391</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added image functionality">
+      <option name="closed" value="true" />
+      <created>1716894509223</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716894509223</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finalise Game Items" />
+    <MESSAGE value="Implemented player movement&#10;&#10;Player can move based on console input." />
+    <MESSAGE value="Game Item placement randomisation" />
+    <MESSAGE value="Added difficulty level" />
+    <MESSAGE value="implemented scoring option and GUI functions" />
+    <MESSAGE value="Added image functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added image functionality" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ICT221_Fallin$GameEngineTest__1_.ic" NAME="GameEngineTest (1) Coverage Results" MODIFIED="1716976517130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ICT221_Fallin$PlayerTest.ic" NAME="PlayerTest Coverage Results" MODIFIED="1716977633196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

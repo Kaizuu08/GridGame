@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane prefHeight="800.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Fallin.gui.Controller">
+    <padding>
+        <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+    </padding>
+
+    <top>
+        <HBox alignment="CENTER" prefHeight="67.0" prefWidth="687.0" spacing="10">
+            <Label text="Choose Difficulty 1-10" textFill="WHITE">
+                <font>
+                    <Font name="System Bold" size="18.0" />
+                </font>
+            </Label>
+            <TextField fx:id="difficultyField" prefHeight="39.0" prefWidth="89.0">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </TextField>
+            <Button fx:id="runButton" style="-fx-background-color: purple; -fx-text-fill: white;" text="Run">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Button>
+            <Button fx:id="helpButton" prefHeight="39.0" prefWidth="110.0" style="-fx-background-color: purple; -fx-text-fill: white;" text="HELP">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Button>
+            <Button fx:id="saveButton" style="-fx-background-color: purple; -fx-text-fill: white;" text="Save Game">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Button>
+            <Button fx:id="loadButton" style="-fx-background-color: purple; -fx-text-fill: white;" text="Load Game">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Button>
+        </HBox>
+    </top>
+
+    <bottom>
+        <HBox alignment="CENTER" prefHeight="121.0" prefWidth="770.0" spacing="10">
+            <Button fx:id="leftButton" style="-fx-background-color: purple; -fx-text-fill: white;" text="Left">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Button>
+            <VBox alignment="CENTER" spacing="10">
+                <Button fx:id="upButton" style="-fx-background-color: purple; -fx-text-fill: white;" text="Up" textFill="WHITE">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Button>
+                <Button fx:id="downButton" style="-fx-background-color: purple; -fx-text-fill: white;" text="Down">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Button>
+            </VBox>
+            <Button fx:id="rightButton" style="-fx-background-color: purple; -fx-text-fill: white;" text="Right">
+                <font>
+                    <Font size="18.0" />
+                </font>
+            </Button>
+        </HBox>
+    </bottom>
+
+    <right>
+        <VBox fx:id="topScoresBox" prefHeight="582.0" prefWidth="150.0" spacing="50.0" BorderPane.alignment="CENTER_RIGHT">
+            <children>
+                <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="57.0" prefWidth="130.0" text="Scoreboard" textFill="WHITE">
+                    <font>
+                        <Font name="System Bold Italic" size="18.0" />
+                    </font>
+                </Label>
+            </children>
+        </VBox>
+    </right>
+
+    <left>
+        <VBox alignment="CENTER" prefHeight="582.0" prefWidth="150.0" spacing="10">
+            <Label fx:id="timeLimitLabel" text="Time Limit: 100" textAlignment="CENTER" textFill="RED">
+                <font>
+                    <Font name="System Bold" size="18.0" />
+                </font>
+            </Label>
+            <Label fx:id="stepsLabel" text="Steps: 0" textFill="WHITE">
+                <font>
+                    <Font name="System Bold Italic" size="18.0" />
+                </font>
+            </Label>
+            <Label fx:id="treasuresLabel" text="Treasures: 0" textFill="#ffd000">
+                <font>
+                    <Font name="System Bold" size="18.0" />
+                </font>
+            </Label>
+            <Label text="Life Status" textFill="WHITE">
+                <font>
+                    <Font name="System Bold Italic" size="18.0" />
+                </font>
+            </Label>
+            <ProgressBar fx:id="lifeStatusBar" prefWidth="100.0" progress="1.0" />
+        </VBox>
+    </left>
+
+    <center>
+        <GridPane fx:id="gridPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="550.0" BorderPane.alignment="TOP_CENTER" />
+    </center>
+</BorderPane>
